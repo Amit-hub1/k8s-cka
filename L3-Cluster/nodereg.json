@@ -1,0 +1,11 @@
+{
+    "kind": "Node",
+    "apiVersion": "v1",
+    "metadata": {
+      "name": "<<nodename>>",
+      "labels": {
+        "name": "firstnode"
+      }
+    }
+}
+  
