@@ -16,9 +16,4 @@ spec:
     - containerPort: 80
 #  nodeSelector:
 #    disktype: ssd
-# Resolve issue by using k explain pod.spec.topologySpreadConstraints
-#    topologySpreadConstraints:
-#    - maxSkew: 1
-#      topologyKey: Zone
-#      whenUnsatisfiable: DonNotSchedule
 
